@@ -1,7 +1,7 @@
 # Is Walkability related to Happiness?
 
-For this mini-project, I wanted to take a look and see if there is a relationship between a city's walkability and general happiness of its residents. Kim Dovey and Elek Pafka define walkability as a combination of "density, mix, and access", but in general terms it's the accessibility of sufficient amenities by foot.
-For this project, I used two main packages: pandas and statsmodels. Pandas is used for general dataframe manipulation, and statsmodels was used to perform a significance test on the Least-Squares model produced. To produce a dataframe for a city's general happiness, I used BeautifulSoup and scraped an article from the website https://wallethub.com/edu/happiest-places-to-live/32619. The dataframe containing a city's walkability score is derived from the EPA.
+For this mini-project, I wanted to take a look and see if there is a relationship between a city's walkability and general happiness of its residents. Kim Dovey and Elek Pafka define walkability as a combination of "density, mix, and access", but in general terms it's the accessibility of sufficient amenities by foot.  
+For this project, I used two main packages: pandas and statsmodels. Pandas is used for general dataframe manipulation, and statsmodels was used to perform a significance test on the Least-Squares model produced. To produce a dataframe for a city's general happiness, I used BeautifulSoup and scraped an article from the website https://wallethub.com/edu/happiest-places-to-live/32619. The dataframe containing a city's walkability score is derived from the EPA.  
 Some things to note: in the github I do not have the walkability index table because it is simply TOO large to import into github. As such, the link to the "walkability.csv" file in my code can be found below:
 https://edg.epa.gov/EPADataCommons/public/OA/EPA_SmartLocationDatabase_V3_Jan_2021_Final.csv
 
